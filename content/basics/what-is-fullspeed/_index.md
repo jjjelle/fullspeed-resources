@@ -35,16 +35,16 @@ Essentially, Fullspeed is about maintaining speed. You use this speed to gain mo
 
 Certain track features like loops, wallrides, tubes etc. may slow you down. But that doesn't mean it's not Fullspeed, these are simply track features intended to be a problem for you to solve by *losing as little speed as possible*. If you for example drift or break, you don't follow the concept of losing as little speed as possible.
 
-There is, however a certain trick in Fullspeed called S4D where you break to start a speed drift. This is the ONLY exception for when breaking is accepted. It is simply a small tap on the break to start a speed drift in other to gain even more speed. The reason this is still accepted is that it is a trick to gain speed.
+There is, however a certain trick in Fullspeed called S4D where you brake to start a speed drift. This is the ONLY exception for when braking is accepted. It is simply a small tap on the brake to start a speed drift in other to gain even more speed. The reason this is still accepted is that it is a trick to gain speed.
 
 {{% notice style="blue" %}}
-If you can drive through the entire track without breaking, releasing, crashing or drifting to slow down, on any surface, the map is considered to be Fullspeed.
+If you can drive through the entire track without braking, releasing, crashing or drifting to slow down, on any surface, the map is considered to be Fullspeed.
 {{% /notice %}}
 
 If you do a drift to slow down in order to manage a turn, then you are not really doing something to gain more speed, you are simply slowing down to do a faster line, this is not Fullspeed. Which brings us to the next point.
 
 ## What is not Fullspeed?
-Many people think that if you hold the accelerator through the entire track and don't break, the track is Fullspeed. As I explained earlier, it is possible to drift without breaking and always holding the accelerator. But if you do this to slow down to be able to get through a turn, you are **NOT** driving the track full speed.
+Many people think that if you hold the accelerator through the entire track and don't brake, the track is Fullspeed. As I explained earlier, it is possible to drift without braking and always holding the accelerator. But if you do this to slow down to be able to get through a turn, you are **NOT** driving the track full speed.
 
 The rules on what Fullspeed is applies to all surfaces, whether it is asphalt, dirt, grass, ice etc. It does not matter if you have to slow down in a way to manage the track.
 
