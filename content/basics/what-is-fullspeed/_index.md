@@ -33,7 +33,7 @@ Well, as the name implies, the main thing in Fullspeed is that you are driving t
 
 Essentially, Fullspeed is about maintaining speed. You use this speed to gain more speed, and the speed you gained from that to gain even more speed. Fullspeed is a very momentum based style, and typically, the goal is to snowball the speed throughout the entire track. Anything that either keeps your speed or gains more speed is good. And anything that slows you down is bad.
 
-Certain track features like loops, wallrides, tubes etc. may slow you down. But that doesn't mean it's not Fullspeed, these are simply track features intended to be a problem for you to solve by *losing as little speed as possible*. If you for example drift or break, you don't follow the concept of losing as little speed as possible.
+Certain track features like loops, wallrides, tubes etc. may slow you down. But that doesn't mean it's not Fullspeed, these are simply track features intended to be a problem for you to solve by *losing as little speed as possible*. If you for example drift or brake, you don't follow the concept of losing as little speed as possible.
 
 There is, however a certain trick in Fullspeed called S4D where you break to start a speed drift. This is the ONLY exception for when breaking is accepted. It is simply a small tap on the break to start a speed drift in other to gain even more speed. The reason this is still accepted is that it is a trick to gain speed.
 
