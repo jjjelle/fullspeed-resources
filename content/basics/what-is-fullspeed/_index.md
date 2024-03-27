@@ -29,7 +29,7 @@ So what separates Fullspeed from the other styles? Well as I said earlier, the m
 
 But obviously, you can reach these types of speeds in other types of tracks than Fullspeed. So why is Fullspeed so special?
 
-Well, as the name implies, the main thing in Fullspeed is that you are driving the track in full speed. What this means is; no breaking, no releasing of the accelerator, you don't drift to slow down and you don't crash. If you can drive the entire track through the intended route while doing those 4 things, the track is considered to be a Fullspeed track.
+Well, as the name implies, the main thing in Fullspeed is that you are driving the track in full speed. What this means is; no braking, no releasing of the accelerator, you don't drift to slow down and you don't crash. If you can drive the entire track through the intended route while doing those 4 things, the track is considered to be a Fullspeed track.
 
 Essentially, Fullspeed is about maintaining speed. You use this speed to gain more speed, and the speed you gained from that to gain even more speed. Fullspeed is a very momentum based style, and typically, the goal is to snowball the speed throughout the entire track. Anything that either keeps your speed or gains more speed is good. And anything that slows you down is bad.
 
