@@ -6,7 +6,7 @@ weight: 1
 ---
 
 ## What is TrackMania and a "track/play style" in the game?
-TrackMania a game that is quite simple to understand. You control a car that is placed at the start line of a track, and your only inputs are forward, backwards and left/right steering. Every car is the same, they behave, accelerate, break all the same. The track gives you a route, and your goal is to drive to the finish line as fast as possible. Sounds quite simple, right?
+TrackMania a game that is quite simple to understand. You control a car that is placed at the start line of a track, and your only inputs are forward, backwards and left/right steering. Every car is the same, they behave, accelerate, brake all the same. The track gives you a route, and your goal is to drive to the finish line as fast as possible. Sounds quite simple, right?
 
 Not so fast (pun intended)! Once you start playing the game, you should quickly realize that there must be something you are doing wrong when you are unable to get anywhere close to the fastest times. Maybe on some tracks, you are closer to the fastest times than some other tracks. But in general, you can't get those times no matter what you try.
 
